@@ -1,0 +1,61 @@
+:root {
+    --main-bg-color: black;
+}
+.body_settings_css {
+    background-color: var(--main-bg-color);
+    font-size: 16px;
+    padding-left: 30px;
+    margin-right: 30px;
+}
+
+.navbar_custom_css {
+    background-color: var(--main-bg-color);
+    background: transparent;
+}
+
+.top_para_css {
+    padding-top: 60px;
+    text-align: center;
+    color: #fc4a26;
+    font-family: "meiryo", "arial";
+    font-weight: 900;
+}
+
+.picture_para_css {
+    padding-top: 30px;
+    text-align: center;
+    color: #c7c7c7;
+    font-family: "meiryo", "arial";
+    padding-bottom: 50px;
+}
+
+.mid_para_green_css {
+    padding-top: 20px;
+    text-align: center;
+    background-color: #75af96;
+    font-family: "meiryo", "arial";
+    padding-bottom: 20px;
+    font-size: 16px;
+    overflow: hidden;
+}
+
+.mid_para_black_css {
+    color: gray;
+    padding-top: 20px;
+    text-align: center;
+    font-family: "meiryo", "arial";
+    padding-bottom: 20px;
+    font-size: 16px;
+    overflow: hidden;
+}
+
+.mid_text_para_css {
+    padding-top: 30px;
+    text-align: center;
+    color: #c7c7c7;
+    font-family: "meiryo", "arial";
+}
+
+.proj_pad_css {
+    padding-bottom: 200px;
+}
