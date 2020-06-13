@@ -59,3 +59,10 @@
 .proj_pad_css {
     padding-bottom: 200px;
 }
+
+.center_div_css {
+    padding-top: 30px;
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+}
